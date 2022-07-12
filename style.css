@@ -1,0 +1,128 @@
+body{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+strong{
+  color: #69A2CD;
+}
+
+
+header{
+  background-color: #B0DDFC;
+  text-align: center;
+  margin: 0 auto;
+  padding-bottom: 30px;
+}
+
+.logo{
+  width: 120px;
+  padding: 10px;
+}
+
+header a{
+  color: black;
+  font-weight: 500;
+  padding: 10px;
+}
+
+.banner-section{
+  text-align: center;
+}
+
+.banner{
+  margin: 20px auto;
+  width: 500px;
+}
+/*===============Sobre======================*/
+#sobre{
+  text-align: center;
+  margin: 10px auto;
+}
+
+h1{
+  font-size: 20px;
+}
+
+h2{
+  font-size: 18px;
+  font-weight: normal;
+  color: #69A2CD;
+}
+
+#sobre p{
+  text-align: justify;
+  line-height: 25px;
+  padding: 5px 20px;
+}
+
+
+.imagem-secao{
+  width: 300px;
+}
+/*===============Serviços======================*/
+#servicos{
+  background-color: #1D80C1;
+  line-height: 25px;
+  color: white;
+  text-align: center;
+  padding: 5px 20px;
+  margin: 10px auto;
+}
+
+h3{
+  padding: 20px;
+}
+
+#servicos p{
+  padding-bottom: 20px;
+}
+
+#servicos strong{
+  color: #D8F960;
+}
+
+#servicos ul{
+  text-align: left;
+  width: 135px;
+  margin: 10px auto;
+}
+/*===============Corretores======================*/
+#corretores{
+  text-align: center;
+  line-height: 25px;
+  padding: 5px 20px;
+  margin: 10px auto;
+}
+
+#corretores h3{
+  color: #1D80C1;
+}
+/*===============Corretores======================*/
+#contato{
+  color: white;
+  background-color: #1D80C1;
+  text-align: center;
+  line-height: 25px;
+  padding: 5px 20px;
+  margin: 10px auto;
+}
+
+.final{
+  background-color: black;
+}
+
+.final strong{
+  color: #D8F960;
+}
+
+.contato ul{
+  padding: 20px 0px 0px 30px;
+  line-height: 40px;
+  list-style: none;
+}
+
+.contato a{
+  background-color: white;
+  padding: 3px;
+  border-radius: 5px;
+}
